@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/ASUS/.m2/repository/org/osgi/org.osgi.core/6.0.0/org.osgi.core-6.0.0.jar" sourcepath="C:/Users/ASUS/.m2/repository/org/osgi/org.osgi.core/6.0.0/org.osgi.core-6.0.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.osgi"/>
+			<attribute name="maven.artifactId" value="org.osgi.core"/>
+			<attribute name="maven.version" value="6.0.0"/>
+			<attribute name="maven.scope" value="provided"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
